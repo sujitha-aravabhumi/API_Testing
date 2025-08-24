@@ -9,11 +9,6 @@
 			"name": "RestFulBooker",
 			"item": [
 				{
-					"name": "New Folder",
-					"item": [],
-					"id": "19346580-62c02353-7fe6-4a3f-a90f-fa2b3621e826"
-				},
-				{
 					"name": "CreateBooking",
 					"event": [
 						{
