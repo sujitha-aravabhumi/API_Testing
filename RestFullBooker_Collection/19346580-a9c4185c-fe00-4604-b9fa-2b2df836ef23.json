@@ -87,7 +87,7 @@
 						"header": [
 							{
 								"key": "Cookie",
-								"value": "token=abc123",
+								"value": "token=0e0fca86dd3c844",
 								"type": "text"
 							}
 						],
@@ -114,7 +114,6 @@
 							],
 							"variable": [
 								{
-									"id": "ad62b3fd-aae5-484d-9da1-f20c3b029b23",
 									"key": "id",
 									"value": "5452"
 								}
